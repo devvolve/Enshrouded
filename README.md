@@ -62,8 +62,9 @@ Created for Windows PC and WebGL, the game places players in an abandoned ritual
 
 ### 🎒 Inventory & Interaction
 - Collect notes, keys, and tools  
-- Press **E** to interact with objects  
-- Inventory stores collected items for puzzle progression  
+- Press **E** to pick up items
+- Inventory stores collected items for puzzle progression
+- Press TAB key to open inventory and right click for item functions
 
 ---
 
@@ -74,6 +75,9 @@ Created for Windows PC and WebGL, the game places players in an abandoned ritual
 - **Shift** – Sprint  
 - **F** – Flashlight Toggle  
 - **Space** – Vault / Context Actions (if applicable)
+- **E** - Pick up items
+- **TAB** - Open inventory
+- *Right Click on Item** - Opens item function menu
 
 ---
 
