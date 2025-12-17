@@ -2,6 +2,9 @@
 A Psychological Horror Narrative Adventure  
 Developed in Unreal Engine 5  
 
+#Video Demonstration for assignment 4: check-in 2
+https://www.youtube.com/watch?v=3QW3P7oyGWc
+
 
 ## Overview
 **The Triad’s Feast** is a third-person psychological horror narrative adventure that blends survival mechanics, puzzle-solving, and dynamic moral decision-making.  
